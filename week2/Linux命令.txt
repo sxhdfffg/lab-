@@ -1,0 +1,6 @@
+pwd 打印当前文件名print working directory
+ls,ll 列表
+cd 进入文件夹，cd.. 回上一级
+cp 复制文件
+mv 修改
+mkdir 创建新目录make directory

@@ -1,0 +1,7 @@
+tip：蛋糕店用户账户，订单
+CREATE TABLE()  创建表格，后接表格名，括号里带表头和数据类型
+INSERT INTO  插入数据
+SELECT*FROM+表格名  从表格中选取数据  *可以换成表头，筛选特定数据
+WHERE  用特定特征筛选数据
+UPDATE 和 SET 来修改 ，用WHERE定位
+DELETE 来删除，用WHERE定位
